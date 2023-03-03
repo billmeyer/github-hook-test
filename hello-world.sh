@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello, World."
+echo "Bill is a CI/CD nerd."
